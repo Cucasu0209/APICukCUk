@@ -1,0 +1,14 @@
+D:\SourceCode\API\CukCukWeb\MISA.CukCuk\MISA.ApplicationCore\bin\Debug\net5.0\MISA.ApplicationCore.deps.json
+D:\SourceCode\API\CukCukWeb\MISA.CukCuk\MISA.ApplicationCore\bin\Debug\net5.0\MISA.ApplicationCore.dll
+D:\SourceCode\API\CukCukWeb\MISA.CukCuk\MISA.ApplicationCore\bin\Debug\net5.0\ref\MISA.ApplicationCore.dll
+D:\SourceCode\API\CukCukWeb\MISA.CukCuk\MISA.ApplicationCore\bin\Debug\net5.0\MISA.ApplicationCore.pdb
+D:\SourceCode\API\CukCukWeb\MISA.CukCuk\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.csproj.AssemblyReference.cache
+D:\SourceCode\API\CukCukWeb\MISA.CukCuk\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceCode\API\CukCukWeb\MISA.CukCuk\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.AssemblyInfoInputs.cache
+D:\SourceCode\API\CukCukWeb\MISA.CukCuk\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.AssemblyInfo.cs
+D:\SourceCode\API\CukCukWeb\MISA.CukCuk\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.csproj.CoreCompileInputs.cache
+D:\SourceCode\API\CukCukWeb\MISA.CukCuk\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.dll
+D:\SourceCode\API\CukCukWeb\MISA.CukCuk\MISA.ApplicationCore\obj\Debug\net5.0\ref\MISA.ApplicationCore.dll
+D:\SourceCode\API\CukCukWeb\MISA.CukCuk\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.pdb
+D:\SourceCode\API\CukCukWeb\MISA.CukCuk\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.Properties.Resources.resources
+D:\SourceCode\API\CukCukWeb\MISA.CukCuk\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.csproj.GenerateResource.cache
